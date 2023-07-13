@@ -17,6 +17,9 @@ export default {
 }
 </script>
 <style lang="less" scoped>
+*{
+  font-size: 1rem;
+}
 img{
   width: 200px;
   height: 200px;
